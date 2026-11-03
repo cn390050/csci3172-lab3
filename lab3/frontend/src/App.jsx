@@ -9,7 +9,7 @@ function App() {
   const [sortOrder, setSortOrder] = useState('desc');
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/players')
+    fetch('https://csci3172-lab3-dovf.onrender.com/api/players')
       .then(response => {
         if (!response.ok) {
           throw new Error('Failed to fetch players');
