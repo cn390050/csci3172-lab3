@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 20px;
+}
+
+header h2 {
+    letter-spacing: 2px;
+}
+
+table {
+    background-color: white;
+}
+
+.table th {
+    font-size: 0.85rem;
+    color: grey;
+    text-transform: uppercase;
+}
+
+.table {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.table thead th {
+    background-color: whitesmoke;
+    color: grey;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+    padding: 14px;
+    white-space: nowrap;
+}
+
+.table tbody td {
+    padding: 13px 14px;
+}
+
+.table tbody tr:hover {
+    background-color: whitesmoke;
+}
+
+.table th {
+    user-select: none;
+}

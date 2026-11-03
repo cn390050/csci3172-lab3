@@ -1,0 +1,7454 @@
+[
+  {
+    "name": "Connor McDavid",
+    "team": "EDM",
+    "position": "C",
+    "games": "15",
+    "goals": "9",
+    "assists": "30",
+    "points": "39"
+  },
+  {
+    "name": "Leon Draisaitl",
+    "team": "EDM",
+    "position": "C",
+    "games": "15",
+    "goals": "12",
+    "assists": "16",
+    "points": "28"
+  },
+  {
+    "name": "Evan Bouchard",
+    "team": "EDM",
+    "position": "D",
+    "games": "15",
+    "goals": "8",
+    "assists": "18",
+    "points": "26"
+  },
+  {
+    "name": "Kirill Kaprizov",
+    "team": "MIN",
+    "position": "LW",
+    "games": "16",
+    "goals": "15",
+    "assists": "10",
+    "points": "25"
+  },
+  {
+    "name": "Nathan MacKinnon",
+    "team": "COL",
+    "position": "C",
+    "games": "14",
+    "goals": "9",
+    "assists": "15",
+    "points": "24"
+  },
+  {
+    "name": "Auston Matthews",
+    "team": "TOR",
+    "position": "C",
+    "games": "16",
+    "goals": "11",
+    "assists": "13",
+    "points": "24"
+  },
+  {
+    "name": "Sebastian Aho",
+    "team": "CAR",
+    "position": "F",
+    "games": "16",
+    "goals": "9",
+    "assists": "12",
+    "points": "21"
+  },
+  {
+    "name": "Leo Carlsson",
+    "team": "ANA",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "17",
+    "points": "21"
+  },
+  {
+    "name": "Quinn Hughes",
+    "team": "MIN",
+    "position": "D",
+    "games": "16",
+    "goals": "5",
+    "assists": "16",
+    "points": "21"
+  },
+  {
+    "name": "William Nylander",
+    "team": "TOR",
+    "position": "RW",
+    "games": "16",
+    "goals": "10",
+    "assists": "11",
+    "points": "21"
+  },
+  {
+    "name": "Tim Stützle",
+    "team": "OTT",
+    "position": "LW",
+    "games": "16",
+    "goals": "9",
+    "assists": "12",
+    "points": "21"
+  },
+  {
+    "name": "Jack Eichel",
+    "team": "VEG",
+    "position": "C",
+    "games": "15",
+    "goals": "7",
+    "assists": "13",
+    "points": "20"
+  },
+  {
+    "name": "Matthew Tkachuk",
+    "team": "FLA",
+    "position": "LW",
+    "games": "14",
+    "goals": "4",
+    "assists": "16",
+    "points": "20"
+  },
+  {
+    "name": "David Pastrňák",
+    "team": "BOS",
+    "position": "RW",
+    "games": "15",
+    "goals": "8",
+    "assists": "11",
+    "points": "19"
+  },
+  {
+    "name": "Drake Batherson",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "9",
+    "assists": "9",
+    "points": "18"
+  },
+  {
+    "name": "Seth Jones",
+    "team": "FLA",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "16",
+    "points": "18"
+  },
+  {
+    "name": "Clayton Keller",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "4",
+    "assists": "14",
+    "points": "18"
+  },
+  {
+    "name": "Nikita Kucherov",
+    "team": "TBL",
+    "position": "RW",
+    "games": "13",
+    "goals": "4",
+    "assists": "14",
+    "points": "18"
+  },
+  {
+    "name": "Martin Nečas",
+    "team": "COL",
+    "position": "C",
+    "games": "14",
+    "goals": "7",
+    "assists": "11",
+    "points": "18"
+  },
+  {
+    "name": "Logan Cooley",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "8",
+    "assists": "9",
+    "points": "17"
+  },
+  {
+    "name": "Filip Forsberg",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "5",
+    "assists": "12",
+    "points": "17"
+  },
+  {
+    "name": "Adam Fox",
+    "team": "NYR",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "16",
+    "points": "17"
+  },
+  {
+    "name": "Artturi Lehkonen",
+    "team": "COL",
+    "position": "LW",
+    "games": "14",
+    "goals": "12",
+    "assists": "5",
+    "points": "17"
+  },
+  {
+    "name": "Mikko Rantanen",
+    "team": "DAL",
+    "position": "RW",
+    "games": "14",
+    "goals": "7",
+    "assists": "10",
+    "points": "17"
+  },
+  {
+    "name": "Mikhail Sergachev",
+    "team": "UTA",
+    "position": "D",
+    "games": "15",
+    "goals": "5",
+    "assists": "12",
+    "points": "17"
+  },
+  {
+    "name": "Mark Stone",
+    "team": "VEG",
+    "position": "RW",
+    "games": "15",
+    "goals": "9",
+    "assists": "8",
+    "points": "17"
+  },
+  {
+    "name": "Tage Thompson",
+    "team": "BUF",
+    "position": "C",
+    "games": "14",
+    "goals": "10",
+    "assists": "7",
+    "points": "17"
+  },
+  {
+    "name": "Jackson Blake",
+    "team": "CAR",
+    "position": "RW",
+    "games": "16",
+    "goals": "3",
+    "assists": "13",
+    "points": "16"
+  },
+  {
+    "name": "Macklin Celebrini",
+    "team": "SJS",
+    "position": "F",
+    "games": "13",
+    "goals": "5",
+    "assists": "11",
+    "points": "16"
+  },
+  {
+    "name": "Brandon Hagel",
+    "team": "TBL",
+    "position": "LW",
+    "games": "13",
+    "goals": "8",
+    "assists": "8",
+    "points": "16"
+  },
+  {
+    "name": "Jack Hughes",
+    "team": "NJD",
+    "position": "C",
+    "games": "14",
+    "goals": "6",
+    "assists": "10",
+    "points": "16"
+  },
+  {
+    "name": "Erik Karlsson",
+    "team": "PIT",
+    "position": "D",
+    "games": "14",
+    "goals": "3",
+    "assists": "13",
+    "points": "16"
+  },
+  {
+    "name": "Alexis Lafrenière",
+    "team": "NYR",
+    "position": "LW",
+    "games": "15",
+    "goals": "9",
+    "assists": "7",
+    "points": "16"
+  },
+  {
+    "name": "Elias Pettersson",
+    "team": "VAN",
+    "position": "C",
+    "games": "16",
+    "goals": "4",
+    "assists": "12",
+    "points": "16"
+  },
+  {
+    "name": "Jack Roslovic",
+    "team": "TOR",
+    "position": "C",
+    "games": "16",
+    "goals": "6",
+    "assists": "10",
+    "points": "16"
+  },
+  {
+    "name": "Nick Schmaltz",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "7",
+    "assists": "9",
+    "points": "16"
+  },
+  {
+    "name": "Steven Stamkos",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "8",
+    "assists": "8",
+    "points": "16"
+  },
+  {
+    "name": "Kyle Connor",
+    "team": "WPG",
+    "position": "LW",
+    "games": "15",
+    "goals": "11",
+    "assists": "4",
+    "points": "15"
+  },
+  {
+    "name": "Alex DeBrincat",
+    "team": "DET",
+    "position": "RW",
+    "games": "14",
+    "goals": "6",
+    "assists": "9",
+    "points": "15"
+  },
+  {
+    "name": "Joel Farabee",
+    "team": "CGY",
+    "position": "LW",
+    "games": "14",
+    "goals": "5",
+    "assists": "10",
+    "points": "15"
+  },
+  {
+    "name": "Roman Josi",
+    "team": "NSH",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "14",
+    "points": "15"
+  },
+  {
+    "name": "Jackson LaCombe",
+    "team": "ANA",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "14",
+    "points": "15"
+  },
+  {
+    "name": "Cale Makar",
+    "team": "COL",
+    "position": "D",
+    "games": "13",
+    "goals": "3",
+    "assists": "12",
+    "points": "15"
+  },
+  {
+    "name": "Mitch Marner",
+    "team": "VEG",
+    "position": "RW",
+    "games": "13",
+    "goals": "2",
+    "assists": "13",
+    "points": "15"
+  },
+  {
+    "name": "Ryan O'Reilly",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "7",
+    "assists": "8",
+    "points": "15"
+  },
+  {
+    "name": "Logan Stankoven",
+    "team": "CAR",
+    "position": "C",
+    "games": "16",
+    "goals": "10",
+    "assists": "5",
+    "points": "15"
+  },
+  {
+    "name": "Brady Tkachuk",
+    "team": "FLA",
+    "position": "LW",
+    "games": "14",
+    "goals": "8",
+    "assists": "7",
+    "points": "15"
+  },
+  {
+    "name": "Viktor Arvidsson",
+    "team": "DET",
+    "position": "LW",
+    "games": "14",
+    "goals": "8",
+    "assists": "6",
+    "points": "14"
+  },
+  {
+    "name": "Matt Boldy",
+    "team": "MIN",
+    "position": "LW",
+    "games": "16",
+    "goals": "6",
+    "assists": "8",
+    "points": "14"
+  },
+  {
+    "name": "Matthew Coronato",
+    "team": "CGY",
+    "position": "RW",
+    "games": "14",
+    "goals": "3",
+    "assists": "11",
+    "points": "14"
+  },
+  {
+    "name": "Easton Cowan",
+    "team": "TOR",
+    "position": "RW",
+    "games": "16",
+    "goals": "6",
+    "assists": "8",
+    "points": "14"
+  },
+  {
+    "name": "Nikolaj Ehlers",
+    "team": "CAR",
+    "position": "LW",
+    "games": "16",
+    "goals": "4",
+    "assists": "10",
+    "points": "14"
+  },
+  {
+    "name": "Joel Eriksson Ek",
+    "team": "MIN",
+    "position": "C",
+    "games": "16",
+    "goals": "5",
+    "assists": "9",
+    "points": "14"
+  },
+  {
+    "name": "Jake Guentzel",
+    "team": "TBL",
+    "position": "C",
+    "games": "13",
+    "goals": "8",
+    "assists": "6",
+    "points": "14"
+  },
+  {
+    "name": "Bo Horvat",
+    "team": "NYI",
+    "position": "C",
+    "games": "14",
+    "goals": "7",
+    "assists": "7",
+    "points": "14"
+  },
+  {
+    "name": "Kirill Marchenko",
+    "team": "TOR",
+    "position": "RW",
+    "games": "14",
+    "goals": "6",
+    "assists": "8",
+    "points": "14"
+  },
+  {
+    "name": "Vasily Podkolzin",
+    "team": "EDM",
+    "position": "RW",
+    "games": "15",
+    "goals": "9",
+    "assists": "5",
+    "points": "14"
+  },
+  {
+    "name": "Jack Quinn",
+    "team": "BUF",
+    "position": "RW",
+    "games": "14",
+    "goals": "8",
+    "assists": "6",
+    "points": "14"
+  },
+  {
+    "name": "Lucas Raymond",
+    "team": "DET",
+    "position": "LW",
+    "games": "14",
+    "goals": "5",
+    "assists": "9",
+    "points": "14"
+  },
+  {
+    "name": "Jason Robertson",
+    "team": "DAL",
+    "position": "LW",
+    "games": "14",
+    "goals": "5",
+    "assists": "9",
+    "points": "14"
+  },
+  {
+    "name": "Matthew Schaefer",
+    "team": "NYI",
+    "position": "D",
+    "games": "14",
+    "goals": "4",
+    "assists": "10",
+    "points": "14"
+  },
+  {
+    "name": "Andrei Svechnikov",
+    "team": "CAR",
+    "position": "RW",
+    "games": "16",
+    "goals": "6",
+    "assists": "8",
+    "points": "14"
+  },
+  {
+    "name": "Zach Benson",
+    "team": "BUF",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "11",
+    "points": "13"
+  },
+  {
+    "name": "Brock Boeser",
+    "team": "VAN",
+    "position": "RW",
+    "games": "16",
+    "goals": "5",
+    "assists": "8",
+    "points": "13"
+  },
+  {
+    "name": "Lane Hutson",
+    "team": "MTL",
+    "position": "D",
+    "games": "14",
+    "goals": "3",
+    "assists": "10",
+    "points": "13"
+  },
+  {
+    "name": "Jonathan Lekkerimäki",
+    "team": "VAN",
+    "position": "RW",
+    "games": "16",
+    "goals": "6",
+    "assists": "7",
+    "points": "13"
+  },
+  {
+    "name": "Artemi Panarin",
+    "team": "LAK",
+    "position": "LW",
+    "games": "13",
+    "goals": "8",
+    "assists": "5",
+    "points": "13"
+  },
+  {
+    "name": "Devon Toews",
+    "team": "COL",
+    "position": "D",
+    "games": "14",
+    "goals": "4",
+    "assists": "9",
+    "points": "13"
+  },
+  {
+    "name": "Trevor Zegras",
+    "team": "PHI",
+    "position": "C",
+    "games": "16",
+    "goals": "4",
+    "assists": "9",
+    "points": "13"
+  },
+  {
+    "name": "Jesper Bratt",
+    "team": "NJD",
+    "position": "W",
+    "games": "14",
+    "goals": "2",
+    "assists": "10",
+    "points": "12"
+  },
+  {
+    "name": "Cole Caufield",
+    "team": "MTL",
+    "position": "RW",
+    "games": "14",
+    "goals": "8",
+    "assists": "4",
+    "points": "12"
+  },
+  {
+    "name": "Cutter Gauthier",
+    "team": "ANA",
+    "position": "LW",
+    "games": "13",
+    "goals": "7",
+    "assists": "5",
+    "points": "12"
+  },
+  {
+    "name": "Arseny Gritsyuk",
+    "team": "NJD",
+    "position": "RW",
+    "games": "14",
+    "goals": "8",
+    "assists": "4",
+    "points": "12"
+  },
+  {
+    "name": "Dylan Holloway",
+    "team": "STL",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "9",
+    "points": "12"
+  },
+  {
+    "name": "Filip Hronek",
+    "team": "VAN",
+    "position": "D",
+    "games": "16",
+    "goals": "1",
+    "assists": "11",
+    "points": "12"
+  },
+  {
+    "name": "Kent Johnson",
+    "team": "CBJ",
+    "position": "C",
+    "games": "12",
+    "goals": "7",
+    "assists": "5",
+    "points": "12"
+  },
+  {
+    "name": "Elias Lindholm",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "5",
+    "assists": "7",
+    "points": "12"
+  },
+  {
+    "name": "Matvei Michkov",
+    "team": "PHI",
+    "position": "RW",
+    "games": "16",
+    "goals": "10",
+    "assists": "2",
+    "points": "12"
+  },
+  {
+    "name": "Sam Reinhart",
+    "team": "FLA",
+    "position": "C",
+    "games": "14",
+    "goals": "7",
+    "assists": "5",
+    "points": "12"
+  },
+  {
+    "name": "Mark Scheifele",
+    "team": "WPG",
+    "position": "C",
+    "games": "15",
+    "goals": "2",
+    "assists": "10",
+    "points": "12"
+  },
+  {
+    "name": "Beckett Sennecke",
+    "team": "ANA",
+    "position": "F",
+    "games": "14",
+    "goals": "8",
+    "assists": "4",
+    "points": "12"
+  },
+  {
+    "name": "Chandler Stephenson",
+    "team": "SEA",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "10",
+    "points": "12"
+  },
+  {
+    "name": "Dylan Strome",
+    "team": "WSH",
+    "position": "C",
+    "games": "13",
+    "goals": "3",
+    "assists": "9",
+    "points": "12"
+  },
+  {
+    "name": "Nick Suzuki",
+    "team": "MTL",
+    "position": "C",
+    "games": "9",
+    "goals": "5",
+    "assists": "7",
+    "points": "12"
+  },
+  {
+    "name": "Alex Tuch",
+    "team": "WSH",
+    "position": "RW",
+    "games": "13",
+    "goals": "10",
+    "assists": "2",
+    "points": "12"
+  },
+  {
+    "name": "Carter Verhaeghe",
+    "team": "FLA",
+    "position": "C",
+    "games": "14",
+    "goals": "8",
+    "assists": "4",
+    "points": "12"
+  },
+  {
+    "name": "Mika Zibanejad",
+    "team": "NYR",
+    "position": "C",
+    "games": "15",
+    "goals": "3",
+    "assists": "9",
+    "points": "12"
+  },
+  {
+    "name": "Ivan Barbashev",
+    "team": "VEG",
+    "position": "C",
+    "games": "15",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "name": "Berkly Catton",
+    "team": "SEA",
+    "position": "F",
+    "games": "14",
+    "goals": "4",
+    "assists": "7",
+    "points": "11"
+  },
+  {
+    "name": "Shayne Gostisbehere",
+    "team": "CAR",
+    "position": "D",
+    "games": "16",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "name": "James Hagens",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "5",
+    "assists": "6",
+    "points": "11"
+  },
+  {
+    "name": "Miro Heiskanen",
+    "team": "DAL",
+    "position": "D",
+    "games": "14",
+    "goals": "3",
+    "assists": "8",
+    "points": "11"
+  },
+  {
+    "name": "Wyatt Johnston",
+    "team": "DAL",
+    "position": "C",
+    "games": "12",
+    "goals": "3",
+    "assists": "8",
+    "points": "11"
+  },
+  {
+    "name": "Nazem Kadri",
+    "team": "COL",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "name": "Kaapo Kakko",
+    "team": "SEA",
+    "position": "RW",
+    "games": "14",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "name": "Jordan Kyrou",
+    "team": "WSH",
+    "position": "C",
+    "games": "13",
+    "goals": "4",
+    "assists": "7",
+    "points": "11"
+  },
+  {
+    "name": "Evgeni Malkin",
+    "team": "PIT",
+    "position": "C",
+    "games": "13",
+    "goals": "6",
+    "assists": "5",
+    "points": "11"
+  },
+  {
+    "name": "Gavin McKenna",
+    "team": "TOR",
+    "position": "LW",
+    "games": "16",
+    "goals": "5",
+    "assists": "6",
+    "points": "11"
+  },
+  {
+    "name": "Cole Perfetti",
+    "team": "WPG",
+    "position": "C",
+    "games": "15",
+    "goals": "6",
+    "assists": "5",
+    "points": "11"
+  },
+  {
+    "name": "JJ Peterka",
+    "team": "BOS",
+    "position": "RW",
+    "games": "15",
+    "goals": "4",
+    "assists": "7",
+    "points": "11"
+  },
+  {
+    "name": "Shane Pinto",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "5",
+    "assists": "6",
+    "points": "11"
+  },
+  {
+    "name": "Brayden Point",
+    "team": "TBL",
+    "position": "C",
+    "games": "13",
+    "goals": "3",
+    "assists": "8",
+    "points": "11"
+  },
+  {
+    "name": "Owen Power",
+    "team": "BUF",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "9",
+    "points": "11"
+  },
+  {
+    "name": "Morgan Rielly",
+    "team": "TOR",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "11",
+    "points": "11"
+  },
+  {
+    "name": "Jimmy Snuggerud",
+    "team": "STL",
+    "position": "RW",
+    "games": "14",
+    "goals": "8",
+    "assists": "3",
+    "points": "11"
+  },
+  {
+    "name": "Philip Broberg",
+    "team": "STL",
+    "position": "D",
+    "games": "14",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "name": "Brandt Clarke",
+    "team": "LAK",
+    "position": "D",
+    "games": "13",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "name": "Dylan Cozens",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Sidney Crosby",
+    "team": "PIT",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Jordan Eberle",
+    "team": "SEA",
+    "position": "RW",
+    "games": "14",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Emmitt Finnie",
+    "team": "DET",
+    "position": "C",
+    "games": "14",
+    "goals": "6",
+    "assists": "4",
+    "points": "10"
+  },
+  {
+    "name": "Frédérick Gaudreau",
+    "team": "SEA",
+    "position": "C",
+    "games": "14",
+    "goals": "7",
+    "assists": "3",
+    "points": "10"
+  },
+  {
+    "name": "Morgan Geekie",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "2",
+    "assists": "8",
+    "points": "10"
+  },
+  {
+    "name": "Claude Giroux",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "name": "Mikael Granlund",
+    "team": "ANA",
+    "position": "C",
+    "games": "13",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "name": "Matvei Gridin",
+    "team": "CGY",
+    "position": "F",
+    "games": "14",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "name": "Dylan Guenther",
+    "team": "UTA",
+    "position": "RW",
+    "games": "15",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "name": "Roope Hintz",
+    "team": "DAL",
+    "position": "LW",
+    "games": "14",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "name": "Pontus Holmberg",
+    "team": "TBL",
+    "position": "RW",
+    "games": "13",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Tye Kartye",
+    "team": "NYR",
+    "position": "F",
+    "games": "15",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Mason McTavish",
+    "team": "STL",
+    "position": "C",
+    "games": "14",
+    "goals": "6",
+    "assists": "4",
+    "points": "10"
+  },
+  {
+    "name": "J.T. Miller",
+    "team": "NYR",
+    "position": "C",
+    "games": "15",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Fraser Minten",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "name": "Brandon Montour",
+    "team": "SEA",
+    "position": "D",
+    "games": "13",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "name": "Thomas Novak",
+    "team": "PIT",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "6",
+    "points": "10"
+  },
+  {
+    "name": "Neal Pionk",
+    "team": "WPG",
+    "position": "D",
+    "games": "15",
+    "goals": "3",
+    "assists": "7",
+    "points": "10"
+  },
+  {
+    "name": "Mackie Samoskevich",
+    "team": "SEA",
+    "position": "RW",
+    "games": "13",
+    "goals": "6",
+    "assists": "4",
+    "points": "10"
+  },
+  {
+    "name": "Jake Sanderson",
+    "team": "OTT",
+    "position": "D",
+    "games": "8",
+    "goals": "1",
+    "assists": "9",
+    "points": "10"
+  },
+  {
+    "name": "Maksim Shabanov",
+    "team": "MIN",
+    "position": "F",
+    "games": "15",
+    "goals": "5",
+    "assists": "5",
+    "points": "10"
+  },
+  {
+    "name": "Will Smith",
+    "team": "SJS",
+    "position": "C",
+    "games": "15",
+    "goals": "6",
+    "assists": "4",
+    "points": "10"
+  },
+  {
+    "name": "Robert Thomas",
+    "team": "STL",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "8",
+    "points": "10"
+  },
+  {
+    "name": "Zach Werenski",
+    "team": "CBJ",
+    "position": "D",
+    "games": "12",
+    "goals": "0",
+    "assists": "10",
+    "points": "10"
+  },
+  {
+    "name": "Josh Anderson",
+    "team": "MTL",
+    "position": "RW",
+    "games": "14",
+    "goals": "6",
+    "assists": "3",
+    "points": "9"
+  },
+  {
+    "name": "Connor Bedard",
+    "team": "CHI",
+    "position": "C",
+    "games": "8",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Jakob Chychrun",
+    "team": "WSH",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "8",
+    "points": "9"
+  },
+  {
+    "name": "Trevor Connelly",
+    "team": "VEG",
+    "position": "F",
+    "games": "15",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Charlie Coyle",
+    "team": "CBJ",
+    "position": "C",
+    "games": "12",
+    "goals": "1",
+    "assists": "8",
+    "points": "9"
+  },
+  {
+    "name": "Rasmus Dahlin",
+    "team": "BUF",
+    "position": "D",
+    "games": "11",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Pavel Dorofeyev",
+    "team": "NYR",
+    "position": "LW",
+    "games": "15",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Vince Dunn",
+    "team": "SEA",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Morgan Frost",
+    "team": "CGY",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Barrett Hayton",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "1",
+    "assists": "8",
+    "points": "9"
+  },
+  {
+    "name": "Nico Hischier",
+    "team": "NJD",
+    "position": "C",
+    "games": "14",
+    "goals": "7",
+    "assists": "2",
+    "points": "9"
+  },
+  {
+    "name": "Mark Jankowski",
+    "team": "CAR",
+    "position": "C",
+    "games": "12",
+    "goals": "8",
+    "assists": "1",
+    "points": "9"
+  },
+  {
+    "name": "Patrick Kane",
+    "team": "CHI",
+    "position": "RW",
+    "games": "14",
+    "goals": "1",
+    "assists": "8",
+    "points": "9"
+  },
+  {
+    "name": "Linus Karlsson",
+    "team": "VAN",
+    "position": "C",
+    "games": "16",
+    "goals": "3",
+    "assists": "6",
+    "points": "9"
+  },
+  {
+    "name": "Alex Laferriere",
+    "team": "LAK",
+    "position": "RW",
+    "games": "13",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Gabriel Landeskog",
+    "team": "COL",
+    "position": "LW",
+    "games": "14",
+    "goals": "5",
+    "assists": "4",
+    "points": "9"
+  },
+  {
+    "name": "Tristan Luneau",
+    "team": "ANA",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Casey Mittelstadt",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "5",
+    "assists": "4",
+    "points": "9"
+  },
+  {
+    "name": "Brock Nelson",
+    "team": "COL",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Noah Ostlund",
+    "team": "BUF",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Darren Raddysh",
+    "team": "TOR",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "9",
+    "points": "9"
+  },
+  {
+    "name": "Mattias Samuelsson",
+    "team": "BUF",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Brayden Schenn",
+    "team": "NYI",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Jaden Schwartz",
+    "team": "COL",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Juraj Slafkovsky",
+    "team": "MTL",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Ivar Stenberg",
+    "team": "SJS",
+    "position": "LW",
+    "games": "15",
+    "goals": "3",
+    "assists": "6",
+    "points": "9"
+  },
+  {
+    "name": "Tyler Toffoli",
+    "team": "SJS",
+    "position": "C",
+    "games": "15",
+    "goals": "4",
+    "assists": "5",
+    "points": "9"
+  },
+  {
+    "name": "Vincent Trocheck",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "3",
+    "assists": "6",
+    "points": "9"
+  },
+  {
+    "name": "Jacob Trouba",
+    "team": "SJS",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "7",
+    "points": "9"
+  },
+  {
+    "name": "Sean Walker",
+    "team": "CAR",
+    "position": "D",
+    "games": "16",
+    "goals": "3",
+    "assists": "6",
+    "points": "9"
+  },
+  {
+    "name": "Pavel Zacha",
+    "team": "BOS",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "6",
+    "points": "9"
+  },
+  {
+    "name": "Justin Barron",
+    "team": "STL",
+    "position": "D",
+    "games": "11",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "name": "Michael Brandsegg-Nygard",
+    "team": "DET",
+    "position": "F",
+    "games": "14",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "name": "Bobby Brink",
+    "team": "MIN",
+    "position": "RW",
+    "games": "16",
+    "goals": "1",
+    "assists": "7",
+    "points": "8"
+  },
+  {
+    "name": "John Carlson",
+    "team": "TBL",
+    "position": "D",
+    "games": "13",
+    "goals": "5",
+    "assists": "3",
+    "points": "8"
+  },
+  {
+    "name": "William Carrier",
+    "team": "CAR",
+    "position": "LW",
+    "games": "16",
+    "goals": "0",
+    "assists": "8",
+    "points": "8"
+  },
+  {
+    "name": "Judd Caulfield",
+    "team": "ANA",
+    "position": "RW",
+    "games": "12",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "Anthony Cirelli",
+    "team": "TBL",
+    "position": "C",
+    "games": "13",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "William Cuylle",
+    "team": "NYR",
+    "position": "LW",
+    "games": "15",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "Jake DeBrusk",
+    "team": "VAN",
+    "position": "LW",
+    "games": "14",
+    "goals": "3",
+    "assists": "5",
+    "points": "8"
+  },
+  {
+    "name": "Luke Evangelista",
+    "team": "NJD",
+    "position": "RW",
+    "games": "11",
+    "goals": "3",
+    "assists": "5",
+    "points": "8"
+  },
+  {
+    "name": "Anton Frondell",
+    "team": "CHI",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "5",
+    "points": "8"
+  },
+  {
+    "name": "Tomáš Hertl",
+    "team": "VEG",
+    "position": "C",
+    "games": "15",
+    "goals": "5",
+    "assists": "3",
+    "points": "8"
+  },
+  {
+    "name": "Brett Howden",
+    "team": "VEG",
+    "position": "C",
+    "games": "15",
+    "goals": "5",
+    "assists": "3",
+    "points": "8"
+  },
+  {
+    "name": "Cole Hutson",
+    "team": "WSH",
+    "position": "D",
+    "games": "13",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "Adrian Kempe",
+    "team": "LAK",
+    "position": "LW",
+    "games": "12",
+    "goals": "3",
+    "assists": "5",
+    "points": "8"
+  },
+  {
+    "name": "Ryan Leonard",
+    "team": "WSH",
+    "position": "RW",
+    "games": "13",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "Charlie McAvoy",
+    "team": "BOS",
+    "position": "D",
+    "games": "9",
+    "goals": "1",
+    "assists": "7",
+    "points": "8"
+  },
+  {
+    "name": "Jared McCann",
+    "team": "SEA",
+    "position": "C",
+    "games": "11",
+    "goals": "3",
+    "assists": "5",
+    "points": "8"
+  },
+  {
+    "name": "Connor McMichael",
+    "team": "STL",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "name": "Brayden McNabb",
+    "team": "VEG",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "8",
+    "points": "8"
+  },
+  {
+    "name": "Jake Neighbours",
+    "team": "STL",
+    "position": "LW",
+    "games": "14",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "Rickard Rakell",
+    "team": "PIT",
+    "position": "RW",
+    "games": "14",
+    "goals": "4",
+    "assists": "4",
+    "points": "8"
+  },
+  {
+    "name": "Moritz Seider",
+    "team": "DET",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "8",
+    "points": "8"
+  },
+  {
+    "name": "Kiefer Sherwood",
+    "team": "SJS",
+    "position": "RW",
+    "games": "15",
+    "goals": "2",
+    "assists": "6",
+    "points": "8"
+  },
+  {
+    "name": "Michael Amadio",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Matty Beniers",
+    "team": "SEA",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Oliver Bjorkstrand",
+    "team": "NYR",
+    "position": "RW",
+    "games": "15",
+    "goals": "5",
+    "assists": "2",
+    "points": "7"
+  },
+  {
+    "name": "Zachary Bolduc",
+    "team": "MTL",
+    "position": "C",
+    "games": "14",
+    "goals": "5",
+    "assists": "2",
+    "points": "7"
+  },
+  {
+    "name": "Pavel Buchnevich",
+    "team": "STL",
+    "position": "LW",
+    "games": "13",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Paul Cotter",
+    "team": "VAN",
+    "position": "C",
+    "games": "15",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Charle-Edouard D'Astous",
+    "team": "TBL",
+    "position": "D",
+    "games": "12",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "Drew Doughty",
+    "team": "LAK",
+    "position": "D",
+    "games": "12",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Pierre-Luc Dubois",
+    "team": "WSH",
+    "position": "C",
+    "games": "8",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Christian Dvorak",
+    "team": "PHI",
+    "position": "C",
+    "games": "16",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Lars Eller",
+    "team": "FLA",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Ryker Evans",
+    "team": "SEA",
+    "position": "D",
+    "games": "14",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Samuel Girard",
+    "team": "PIT",
+    "position": "D",
+    "games": "11",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Simon Holmström",
+    "team": "NYI",
+    "position": "RW",
+    "games": "14",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Luke Hughes",
+    "team": "NJD",
+    "position": "D",
+    "games": "14",
+    "goals": "5",
+    "assists": "2",
+    "points": "7"
+  },
+  {
+    "name": "Seth Jarvis",
+    "team": "CAR",
+    "position": "C",
+    "games": "5",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Mathieu Joseph",
+    "team": "EDM",
+    "position": "RW",
+    "games": "15",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Roman Kantserov",
+    "team": "CHI",
+    "position": "RW",
+    "games": "14",
+    "goals": "5",
+    "assists": "2",
+    "points": "7"
+  },
+  {
+    "name": "Kasperi Kapanen",
+    "team": "EDM",
+    "position": "RW",
+    "games": "15",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Jesperi Kotkaniemi",
+    "team": "CAR",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Peyton Krebs",
+    "team": "BUF",
+    "position": "C",
+    "games": "14",
+    "goals": "0",
+    "assists": "7",
+    "points": "7"
+  },
+  {
+    "name": "Chris Kreider",
+    "team": "MTL",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "Jordan Martinook",
+    "team": "CAR",
+    "position": "LW",
+    "games": "16",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "Porter Martone",
+    "team": "PHI",
+    "position": "RW",
+    "games": "16",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Michael McCarron",
+    "team": "MIN",
+    "position": "RW",
+    "games": "16",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "Michael Misa",
+    "team": "SJS",
+    "position": "F",
+    "games": "15",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Ryan Nugent-Hopkins",
+    "team": "EDM",
+    "position": "C",
+    "games": "6",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Liam Ohgren",
+    "team": "VAN",
+    "position": "LW",
+    "games": "15",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Jean-Gabriel Pageau",
+    "team": "NYI",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Gabriel Perreault",
+    "team": "NYR",
+    "position": "RW",
+    "games": "15",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Matthew Poitras",
+    "team": "BOS",
+    "position": "C",
+    "games": "11",
+    "goals": "4",
+    "assists": "3",
+    "points": "7"
+  },
+  {
+    "name": "Eric Robinson",
+    "team": "CAR",
+    "position": "LW",
+    "games": "16",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "Travis Sanheim",
+    "team": "PHI",
+    "position": "D",
+    "games": "16",
+    "goals": "1",
+    "assists": "6",
+    "points": "7"
+  },
+  {
+    "name": "Pius Suter",
+    "team": "STL",
+    "position": "F",
+    "games": "14",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Fedor Svechkov",
+    "team": "COL",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "John Tavares",
+    "team": "TOR",
+    "position": "C",
+    "games": "7",
+    "goals": "2",
+    "assists": "5",
+    "points": "7"
+  },
+  {
+    "name": "Kailer Yamamoto",
+    "team": "UTA",
+    "position": "RW",
+    "games": "9",
+    "goals": "3",
+    "assists": "4",
+    "points": "7"
+  },
+  {
+    "name": "Sam Bennett",
+    "team": "FLA",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Tyler Bertuzzi",
+    "team": "CHI",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Oliver Bonk",
+    "team": "PHI",
+    "position": "D",
+    "games": "10",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Jesper Boqvist",
+    "team": "NJD",
+    "position": "C",
+    "games": "12",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Braeden Bowman",
+    "team": "VEG",
+    "position": "F",
+    "games": "15",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Alexandre Carrier",
+    "team": "MTL",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Thomas Chabot",
+    "team": "OTT",
+    "position": "D",
+    "games": "12",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Blake Coleman",
+    "team": "MIN",
+    "position": "C",
+    "games": "16",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Phillip Danault",
+    "team": "MTL",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Jamie Drysdale",
+    "team": "PHI",
+    "position": "D",
+    "games": "16",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Adam Edstrom",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "5",
+    "assists": "1",
+    "points": "6"
+  },
+  {
+    "name": "Adam Fantilli",
+    "team": "CBJ",
+    "position": "C",
+    "games": "12",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Justin Faulk",
+    "team": "DET",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Vladislav Gavrikov",
+    "team": "NYR",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "A.J. Greer",
+    "team": "ANA",
+    "position": "LW",
+    "games": "13",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Dougie Hamilton",
+    "team": "NJD",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Thomas Harley",
+    "team": "DAL",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Emil Heineman",
+    "team": "NYI",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Boone Jenner",
+    "team": "WSH",
+    "position": "C",
+    "games": "13",
+    "goals": "5",
+    "assists": "1",
+    "points": "6"
+  },
+  {
+    "name": "William Karlsson",
+    "team": "VEG",
+    "position": "C",
+    "games": "15",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Mark Kastelic",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Parker Kelly",
+    "team": "COL",
+    "position": "F",
+    "games": "14",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Alexander Kerfoot",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Marat Khusnutdinov",
+    "team": "BOS",
+    "position": "C",
+    "games": "15",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Benjamin Kindel",
+    "team": "PIT",
+    "position": "C",
+    "games": "11",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Kaedan Korczak",
+    "team": "PIT",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "6",
+    "points": "6"
+  },
+  {
+    "name": "Hendrix Lapierre",
+    "team": "PIT",
+    "position": "C",
+    "games": "10",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Dylan Larkin",
+    "team": "DET",
+    "position": "C",
+    "games": "10",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Anders Lee",
+    "team": "UTA",
+    "position": "LW",
+    "games": "15",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Kris Letang",
+    "team": "PIT",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "6",
+    "points": "6"
+  },
+  {
+    "name": "Mason Lohrei",
+    "team": "BOS",
+    "position": "D",
+    "games": "15",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Anton Lundell",
+    "team": "FLA",
+    "position": "C",
+    "games": "14",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Matias Maccelli",
+    "team": "NYI",
+    "position": "LW",
+    "games": "8",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Anthony Mantha",
+    "team": "NJD",
+    "position": "RW",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Mason Marchment",
+    "team": "SJS",
+    "position": "F",
+    "games": "15",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Ben Meyers",
+    "team": "SEA",
+    "position": "F",
+    "games": "12",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Alex Newhook",
+    "team": "MTL",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Valeri Nichushkin",
+    "team": "CBJ",
+    "position": "RW",
+    "games": "12",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Dmitry Orlov",
+    "team": "SJS",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Nick Paul",
+    "team": "TOR",
+    "position": "LW",
+    "games": "16",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Martin Pospisil",
+    "team": "CGY",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Nicholas Robertson",
+    "team": "PIT",
+    "position": "LW",
+    "games": "14",
+    "goals": "6",
+    "assists": "0",
+    "points": "6"
+  },
+  {
+    "name": "Max Sasson",
+    "team": "VAN",
+    "position": "F",
+    "games": "16",
+    "goals": "4",
+    "assists": "2",
+    "points": "6"
+  },
+  {
+    "name": "Tyler Seguin",
+    "team": "DAL",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Cole Sillinger",
+    "team": "CBJ",
+    "position": "C",
+    "games": "12",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Ryan Strome",
+    "team": "CGY",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Teuvo Teräväinen",
+    "team": "CHI",
+    "position": "F",
+    "games": "11",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Gabriel Vilardi",
+    "team": "WPG",
+    "position": "C",
+    "games": "15",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Tim Washe",
+    "team": "ANA",
+    "position": "F",
+    "games": "14",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Adam Wilsby",
+    "team": "NSH",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "6",
+    "points": "6"
+  },
+  {
+    "name": "Ryan Winterton",
+    "team": "SEA",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "4",
+    "points": "6"
+  },
+  {
+    "name": "Danila Yurov",
+    "team": "MIN",
+    "position": "RW",
+    "games": "16",
+    "goals": "5",
+    "assists": "1",
+    "points": "6"
+  },
+  {
+    "name": "Olen Zellweger",
+    "team": "BUF",
+    "position": "D",
+    "games": "13",
+    "goals": "3",
+    "assists": "3",
+    "points": "6"
+  },
+  {
+    "name": "Fabian Zetterlund",
+    "team": "OTT",
+    "position": "W",
+    "games": "16",
+    "goals": "1",
+    "assists": "5",
+    "points": "6"
+  },
+  {
+    "name": "Dawson Mercer",
+    "team": "2TM",
+    "position": "C",
+    "games": "15",
+    "goals": "0",
+    "assists": "6",
+    "points": "6"
+  },
+  {
+    "name": "Dawson Mercer",
+    "team": "NJD",
+    "position": "C",
+    "games": "10",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Dawson Mercer",
+    "team": "WPG",
+    "position": "C",
+    "games": "5",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Rasmus Andersson",
+    "team": "VEG",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Joel Armia",
+    "team": "LAK",
+    "position": "RW",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Mikael Backlund",
+    "team": "CGY",
+    "position": "C",
+    "games": "12",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Denver Barkey",
+    "team": "PHI",
+    "position": "C",
+    "games": "13",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Jamie Benn",
+    "team": "DAL",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Jonatan Berggren",
+    "team": "STL",
+    "position": "RW",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Jonas Brodin",
+    "team": "MIN",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Brent Burns",
+    "team": "COL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Declan Carlile",
+    "team": "PIT",
+    "position": "D",
+    "games": "14",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Noah Cates",
+    "team": "PHI",
+    "position": "LW",
+    "games": "16",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Sam Colangelo",
+    "team": "ANA",
+    "position": "RW",
+    "games": "10",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Sean Couturier",
+    "team": "PHI",
+    "position": "C",
+    "games": "16",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Lawson Crouse",
+    "team": "UTA",
+    "position": "LW",
+    "games": "15",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Connor Dewar",
+    "team": "PIT",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Noah Dobson",
+    "team": "MTL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Anthony Duclair",
+    "team": "NYI",
+    "position": "LW",
+    "games": "14",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Sean Durzi",
+    "team": "NYR",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Mattias Ekholm",
+    "team": "EDM",
+    "position": "D",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Victor Eklund",
+    "team": "NYI",
+    "position": "RW",
+    "games": "14",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Jake Evans",
+    "team": "MTL",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Alex Formenton",
+    "team": "EDM",
+    "position": "LW",
+    "games": "15",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Taylor Hall",
+    "team": "CAR",
+    "position": "LW",
+    "games": "8",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Stephen Halliday",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Noah Hanifin",
+    "team": "VEG",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Erik Haula",
+    "team": "LAK",
+    "position": "LW",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Victor Hedman",
+    "team": "TBL",
+    "position": "D",
+    "games": "12",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Nils Höglander",
+    "team": "NSH",
+    "position": "LW",
+    "games": "14",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Arttu Hyry",
+    "team": "DAL",
+    "position": "F",
+    "games": "14",
+    "goals": "4",
+    "assists": "1",
+    "points": "5"
+  },
+  {
+    "name": "Alex Iafallo",
+    "team": "WPG",
+    "position": "C",
+    "games": "15",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Wyatt Kaiser",
+    "team": "CHI",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Alex Killorn",
+    "team": "ANA",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Matthew Knies",
+    "team": "CBJ",
+    "position": "LW",
+    "games": "12",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Ville Koivunen",
+    "team": "PIT",
+    "position": "RW",
+    "games": "12",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Travis Konecny",
+    "team": "PHI",
+    "position": "RW",
+    "games": "6",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Scott Laughton",
+    "team": "LAK",
+    "position": "C",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Adam Lowry",
+    "team": "WPG",
+    "position": "LW",
+    "games": "15",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Sam Malinski",
+    "team": "COL",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Jeff Malott",
+    "team": "ANA",
+    "position": "F",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Jonathan Marchessault",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "John Marino",
+    "team": "UTA",
+    "position": "D",
+    "games": "9",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Denton Mateychuk",
+    "team": "CBJ",
+    "position": "D",
+    "games": "12",
+    "goals": "4",
+    "assists": "1",
+    "points": "5"
+  },
+  {
+    "name": "Bobby McMann",
+    "team": "SEA",
+    "position": "F",
+    "games": "14",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Timo Meier",
+    "team": "NJD",
+    "position": "RW",
+    "games": "14",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Trevor Moore",
+    "team": "LAK",
+    "position": "LW",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Frank Nazar",
+    "team": "CHI",
+    "position": "C",
+    "games": "12",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Simon Nemec",
+    "team": "CGY",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Jamie Oleksiak",
+    "team": "VAN",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Victor Olofsson",
+    "team": "VEG",
+    "position": "RW",
+    "games": "4",
+    "goals": "4",
+    "assists": "1",
+    "points": "5"
+  },
+  {
+    "name": "Zayne Parekh",
+    "team": "CGY",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Andrew Peeke",
+    "team": "UTA",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Brett Pesce",
+    "team": "NJD",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Aliaksei Protas",
+    "team": "WSH",
+    "position": "C",
+    "games": "13",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Ilya Protas",
+    "team": "WSH",
+    "position": "C",
+    "games": "13",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Evan Rodrigues",
+    "team": "NJD",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Marco Rossi",
+    "team": "VAN",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Nicolas Roy",
+    "team": "COL",
+    "position": "C",
+    "games": "8",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Bryan Rust",
+    "team": "PIT",
+    "position": "RW",
+    "games": "7",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Dylan Samberg",
+    "team": "WPG",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Damon Severson",
+    "team": "CBJ",
+    "position": "D",
+    "games": "10",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Ryan Shea",
+    "team": "EDM",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Dmitriy Simashev",
+    "team": "UTA",
+    "position": "D",
+    "games": "15",
+    "goals": "3",
+    "assists": "2",
+    "points": "5"
+  },
+  {
+    "name": "Colton Sissons",
+    "team": "TOR",
+    "position": "C",
+    "games": "16",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Jared Spurgeon",
+    "team": "MIN",
+    "position": "D",
+    "games": "10",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Logan Stanley",
+    "team": "NYI",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Troy Stecher",
+    "team": "TOR",
+    "position": "D",
+    "games": "16",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Kevin Stenlund",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "1",
+    "assists": "4",
+    "points": "5"
+  },
+  {
+    "name": "Aydar Suniev",
+    "team": "CGY",
+    "position": "LW",
+    "games": "11",
+    "goals": "4",
+    "assists": "1",
+    "points": "5"
+  },
+  {
+    "name": "Alexandre Texier",
+    "team": "MTL",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Shea Theodore",
+    "team": "VEG",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Noah Warren",
+    "team": "ANA",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "5",
+    "points": "5"
+  },
+  {
+    "name": "Tom Wilson",
+    "team": "WSH",
+    "position": "RW",
+    "games": "13",
+    "goals": "2",
+    "assists": "3",
+    "points": "5"
+  },
+  {
+    "name": "Arshdeep Bains",
+    "team": "VAN",
+    "position": "F",
+    "games": "13",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Teddy Blueger",
+    "team": "TOR",
+    "position": "C",
+    "games": "16",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "William Borgen",
+    "team": "BOS",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Frederic Brunet",
+    "team": "BOS",
+    "position": "D",
+    "games": "10",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Zeev Buium",
+    "team": "VAN",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Danil But",
+    "team": "UTA",
+    "position": "LW",
+    "games": "13",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Quinton Byfield",
+    "team": "LAK",
+    "position": "C",
+    "games": "11",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Jalen Chatfield",
+    "team": "CAR",
+    "position": "D",
+    "games": "16",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Igor Chernyshov",
+    "team": "SJS",
+    "position": "LW",
+    "games": "11",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Egor Chinakhov",
+    "team": "PIT",
+    "position": "RW",
+    "games": "10",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Ross Colton",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "J.T. Compher",
+    "team": "DET",
+    "position": "LW",
+    "games": "7",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Colton Dach",
+    "team": "EDM",
+    "position": "C",
+    "games": "11",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "name": "Tony DeAngelo",
+    "team": "NYI",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Dylan DeMelo",
+    "team": "WPG",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Ryan Donato",
+    "team": "CHI",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Brandon Duhaime",
+    "team": "TOR",
+    "position": "RW",
+    "games": "16",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Dalibor Dvorsky",
+    "team": "STL",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "name": "Aaron Ekblad",
+    "team": "FLA",
+    "position": "D",
+    "games": "12",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Warren Foegele",
+    "team": "OTT",
+    "position": "LW",
+    "games": "13",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Cam Fowler",
+    "team": "STL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Conor Geekie",
+    "team": "TBL",
+    "position": "C",
+    "games": "13",
+    "goals": "4",
+    "assists": "0",
+    "points": "4"
+  },
+  {
+    "name": "Ryan Greene",
+    "team": "CHI",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Ridly Greig",
+    "team": "OTT",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Kaiden Guhle",
+    "team": "MTL",
+    "position": "D",
+    "games": "10",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Ryan Hartman",
+    "team": "MIN",
+    "position": "RW",
+    "games": "16",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "T.J. Hughes",
+    "team": "COL",
+    "position": "F",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Tanner Jeannot",
+    "team": "BOS",
+    "position": "F",
+    "games": "15",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Anton Johansson",
+    "team": "DET",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Adam Klapka",
+    "team": "CGY",
+    "position": "F",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Brett Kulak",
+    "team": "COL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Noah Laba",
+    "team": "NYR",
+    "position": "C",
+    "games": "15",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Hampus Lindholm",
+    "team": "BOS",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Blake Lizotte",
+    "team": "PIT",
+    "position": "C",
+    "games": "14",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Amadeus Lombardi",
+    "team": "NJD",
+    "position": "C",
+    "games": "12",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Eetu Luostarinen",
+    "team": "FLA",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Zack MacEwen",
+    "team": "TOR",
+    "position": "C",
+    "games": "10",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Josh Manson",
+    "team": "COL",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Mike Matheson",
+    "team": "MTL",
+    "position": "D",
+    "games": "8",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Owen Michaels",
+    "team": "EDM",
+    "position": "F",
+    "games": "15",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Ilya Mikheyev",
+    "team": "TBL",
+    "position": "F",
+    "games": "13",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Niko Mikkola",
+    "team": "FLA",
+    "position": "D",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "K'Andre Miller",
+    "team": "CAR",
+    "position": "D",
+    "games": "16",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Sean Monahan",
+    "team": "CBJ",
+    "position": "C",
+    "games": "12",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Nikita Nesterenko",
+    "team": "ANA",
+    "position": "C",
+    "games": "12",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Drew O'Connor",
+    "team": "VAN",
+    "position": "F",
+    "games": "16",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Alex Ovechkin",
+    "team": "WSH",
+    "position": "LW",
+    "games": "13",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Ondřej Palát",
+    "team": "NYI",
+    "position": "LW",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Kyle Palmieri",
+    "team": "NYI",
+    "position": "RW",
+    "games": "14",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "name": "Colton Parayko",
+    "team": "STL",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Elias Pettersson",
+    "team": "VAN",
+    "position": "D",
+    "games": "16",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "name": "Michael Rasmussen",
+    "team": "DET",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "3",
+    "points": "4"
+  },
+  {
+    "name": "Nick Seeler",
+    "team": "PHI",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Yegor Sharangovich",
+    "team": "CGY",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Brady Skjei",
+    "team": "NSH",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Jaccob Slavin",
+    "team": "CAR",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Jack St. Ivany",
+    "team": "2TM",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Jack St. Ivany",
+    "team": "WPG",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jack St. Ivany",
+    "team": "WSH",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Eeli Tolvanen",
+    "team": "NYR",
+    "position": "RW",
+    "games": "15",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "name": "William Wallinder",
+    "team": "DET",
+    "position": "D",
+    "games": "9",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "MacKenzie Weegar",
+    "team": "UTA",
+    "position": "D",
+    "games": "15",
+    "goals": "2",
+    "assists": "2",
+    "points": "4"
+  },
+  {
+    "name": "Shane Wright",
+    "team": "SEA",
+    "position": "C",
+    "games": "14",
+    "goals": "3",
+    "assists": "1",
+    "points": "4"
+  },
+  {
+    "name": "Nikita Zadorov",
+    "team": "BOS",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Artem Zub",
+    "team": "OTT",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "4",
+    "points": "4"
+  },
+  {
+    "name": "Nolan Allan",
+    "team": "SJS",
+    "position": "D",
+    "games": "9",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Michael Anderson",
+    "team": "LAK",
+    "position": "D",
+    "games": "13",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Morgan Barron",
+    "team": "WPG",
+    "position": "C",
+    "games": "15",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Anthony Beauvillier",
+    "team": "WSH",
+    "position": "LW",
+    "games": "13",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Connor Brown",
+    "team": "NJD",
+    "position": "RW",
+    "games": "6",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Jake Christiansen",
+    "team": "CBJ",
+    "position": "D",
+    "games": "11",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Andrew Copp",
+    "team": "DET",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Maxwell Crozier",
+    "team": "TBL",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Kirby Dach",
+    "team": "MTL",
+    "position": "C",
+    "games": "13",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Vincent Desharnais",
+    "team": "WSH",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Nicolas Deslauriers",
+    "team": "CAR",
+    "position": "LW",
+    "games": "11",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Jason Dickinson",
+    "team": "EDM",
+    "position": "C",
+    "games": "6",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Josh Doan",
+    "team": "BUF",
+    "position": "RW",
+    "games": "14",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Nic Dowd",
+    "team": "VEG",
+    "position": "C",
+    "games": "15",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Jack Drury",
+    "team": "NSH",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Martin Fehérváry",
+    "team": "WSH",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Tyson Foerster",
+    "team": "PHI",
+    "position": "RW",
+    "games": "15",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Collin Graf",
+    "team": "SJS",
+    "position": "F",
+    "games": "15",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Erik Gustafsson",
+    "team": "LAK",
+    "position": "D",
+    "games": "11",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Filip Hallander",
+    "team": "2TM",
+    "position": "C",
+    "games": "9",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Filip Hallander",
+    "team": "PIT",
+    "position": "C",
+    "games": "2",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Filip Hallander",
+    "team": "EDM",
+    "position": "C",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Konsta Helenius",
+    "team": "BUF",
+    "position": "F",
+    "games": "11",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Isaac Howard",
+    "team": "EDM",
+    "position": "LW",
+    "games": "13",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Michael Kesselring",
+    "team": "SJS",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Tyler Kleven",
+    "team": "OTT",
+    "position": "D",
+    "games": "16",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Cole Knuble",
+    "team": "PHI",
+    "position": "C",
+    "games": "6",
+    "goals": "3",
+    "assists": "0",
+    "points": "3"
+  },
+  {
+    "name": "Jiri Kulich",
+    "team": "BUF",
+    "position": "C",
+    "games": "8",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Raphael Lavoie",
+    "team": "VEG",
+    "position": "C",
+    "games": "10",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Andre Lee",
+    "team": "LAK",
+    "position": "LW",
+    "games": "11",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Artyom Levshunov",
+    "team": "CHI",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Nils Lundkvist",
+    "team": "DAL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Olli Määttä",
+    "team": "MIN",
+    "position": "D",
+    "games": "12",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Josh Mahura",
+    "team": "SEA",
+    "position": "D",
+    "games": "11",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Nikolas Matinpalo",
+    "team": "OTT",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Jack McBain",
+    "team": "UTA",
+    "position": "C",
+    "games": "15",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Jake McCabe",
+    "team": "TOR",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Ryan McLeod",
+    "team": "BUF",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Oliver Moore",
+    "team": "CHI",
+    "position": "C",
+    "games": "13",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Josh Morrissey",
+    "team": "WPG",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Stefan Noesen",
+    "team": "NJD",
+    "position": "RW",
+    "games": "5",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Joshua Norris",
+    "team": "BUF",
+    "position": "C",
+    "games": "14",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Mathieu Olivier",
+    "team": "CBJ",
+    "position": "F",
+    "games": "12",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Adam Pelech",
+    "team": "NYI",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Sam Rinzel",
+    "team": "CHI",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Nate Schmidt",
+    "team": "UTA",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Jonas Siegenthaler",
+    "team": "NJD",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Justin Sourdif",
+    "team": "WSH",
+    "position": "RW",
+    "games": "11",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Jordan Spence",
+    "team": "OTT",
+    "position": "D",
+    "games": "16",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Sam Steel",
+    "team": "DAL",
+    "position": "C",
+    "games": "12",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Anthony Stolarz",
+    "team": "TOR",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Juuso Välimäki",
+    "team": "CAR",
+    "position": "D",
+    "games": "6",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Frank Vatrano",
+    "team": "ANA",
+    "position": "LW",
+    "games": "8",
+    "goals": "2",
+    "assists": "1",
+    "points": "3"
+  },
+  {
+    "name": "Alexander Wennberg",
+    "team": "SJS",
+    "position": "C",
+    "games": "9",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Tom Willander",
+    "team": "VAN",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "3",
+    "points": "3"
+  },
+  {
+    "name": "Matthew Wood",
+    "team": "NSH",
+    "position": "RW",
+    "games": "14",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Carter Yakemchuk",
+    "team": "OTT",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "2",
+    "points": "3"
+  },
+  {
+    "name": "Noel Acciari",
+    "team": "PHI",
+    "position": "C",
+    "games": "16",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Emil Andrae",
+    "team": "CBJ",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Kevin Bahl",
+    "team": "CGY",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Owen Beck",
+    "team": "MTL",
+    "position": "C",
+    "games": "4",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Mavrik Bourque",
+    "team": "NSH",
+    "position": "C",
+    "games": "10",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Luca Cagnoni",
+    "team": "SJS",
+    "position": "D",
+    "games": "9",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Michael Carcone",
+    "team": "UTA",
+    "position": "F",
+    "games": "6",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Erik Černák",
+    "team": "TBL",
+    "position": "D",
+    "games": "12",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Declan Chisholm",
+    "team": "NJD",
+    "position": "D",
+    "games": "12",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Filip Chytil",
+    "team": "VAN",
+    "position": "C",
+    "games": "7",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Casey Cizikas",
+    "team": "NYI",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Nick Cousins",
+    "team": "OTT",
+    "position": "C",
+    "games": "16",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Nate Danielson",
+    "team": "DET",
+    "position": "C",
+    "games": "12",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Ivan Demidov",
+    "team": "MTL",
+    "position": "RW",
+    "games": "2",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Sam Dickinson",
+    "team": "SJS",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Brian Dumoulin",
+    "team": "LAK",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Joel Edmundson",
+    "team": "LAK",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "William Eklund",
+    "team": "OTT",
+    "position": "LW",
+    "games": "4",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Gustav Forsling",
+    "team": "FLA",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Brendan Gallagher",
+    "team": "VAN",
+    "position": "RW",
+    "games": "13",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Marc Gatcomb",
+    "team": "VEG",
+    "position": "F",
+    "games": "15",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Dennis Gilbert",
+    "team": "BUF",
+    "position": "D",
+    "games": "5",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Zemgus Girgensons",
+    "team": "TBL",
+    "position": "C",
+    "games": "11",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Cody Glass",
+    "team": "NJD",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Gage Goncalves",
+    "team": "TBL",
+    "position": "C",
+    "games": "12",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Justin Holl",
+    "team": "WSH",
+    "position": "D",
+    "games": "3",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "name": "Justin Hryckowian",
+    "team": "DAL",
+    "position": "F",
+    "games": "14",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "name": "Dominic James",
+    "team": "TBL",
+    "position": "C",
+    "games": "5",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Nick Jensen",
+    "team": "ANA",
+    "position": "D",
+    "games": "3",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Adam Jiricek",
+    "team": "STL",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Aleksanteri Kaskimaki",
+    "team": "STL",
+    "position": "C",
+    "games": "6",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Joel Kiviranta",
+    "team": "DAL",
+    "position": "F",
+    "games": "10",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Dmitry Kulikov",
+    "team": "FLA",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Yan Kuznetsov",
+    "team": "CGY",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Nick Lardis",
+    "team": "CHI",
+    "position": "LW",
+    "games": "6",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Adam Larsson",
+    "team": "SEA",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Beck Malenstyn",
+    "team": "BUF",
+    "position": "LW",
+    "games": "14",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Andrew Mangiapane",
+    "team": "CHI",
+    "position": "LW",
+    "games": "3",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Carter Mazur",
+    "team": "DET",
+    "position": "LW",
+    "games": "8",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Ryan McDonagh",
+    "team": "TBL",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Roger McQueen",
+    "team": "ANA",
+    "position": "C",
+    "games": "9",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "name": "Zach Metsa",
+    "team": "BUF",
+    "position": "D",
+    "games": "12",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Jacob Middleton",
+    "team": "CGY",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Pavel Mintyukov",
+    "team": "ANA",
+    "position": "D",
+    "games": "10",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Bradly Nadeau",
+    "team": "CAR",
+    "position": "LW",
+    "games": "3",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Darnell Nurse",
+    "team": "SJS",
+    "position": "D",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Nicklaus Perbix",
+    "team": "NSH",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Corey Perry",
+    "team": "LAK",
+    "position": "RW",
+    "games": "11",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Marcus Pettersson",
+    "team": "NYR",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Ryan Poehling",
+    "team": "ANA",
+    "position": "C",
+    "games": "5",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Mike Reilly",
+    "team": "CAR",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Calum Ritchie",
+    "team": "NYI",
+    "position": "C",
+    "games": "8",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Isak Rosen",
+    "team": "WPG",
+    "position": "RW",
+    "games": "15",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Luke Schenn",
+    "team": "VAN",
+    "position": "D",
+    "games": "10",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Braden Schneider",
+    "team": "NYR",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Igor Shesterkin",
+    "team": "NYR",
+    "position": "G",
+    "games": "5",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Cole Smith",
+    "team": "CHI",
+    "position": "F",
+    "games": "14",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Spencer Stastney",
+    "team": "PIT",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Jayden Struble",
+    "team": "2TM",
+    "position": "D",
+    "games": "13",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "name": "Jayden Struble",
+    "team": "MTL",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jayden Struble",
+    "team": "NSH",
+    "position": "D",
+    "games": "10",
+    "goals": "2",
+    "assists": "0",
+    "points": "2"
+  },
+  {
+    "name": "Nico Sturm",
+    "team": "MIN",
+    "position": "C",
+    "games": "10",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Owen Tippett",
+    "team": "PHI",
+    "position": "RW",
+    "games": "10",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Philip Tomasino",
+    "team": "OTT",
+    "position": "C",
+    "games": "2",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Yakov Trenin",
+    "team": "MIN",
+    "position": "C",
+    "games": "16",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Jeffrey Viel",
+    "team": "TBL",
+    "position": "F",
+    "games": "10",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Sandis Vilmanis",
+    "team": "FLA",
+    "position": "LW",
+    "games": "13",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Alex Vlasic",
+    "team": "CHI",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Dmitri Voronkov",
+    "team": "CBJ",
+    "position": "LW",
+    "games": "8",
+    "goals": "0",
+    "assists": "2",
+    "points": "2"
+  },
+  {
+    "name": "Florian Xhekaj",
+    "team": "MTL",
+    "position": "LW",
+    "games": "6",
+    "goals": "1",
+    "assists": "1",
+    "points": "2"
+  },
+  {
+    "name": "Jack Ahcan",
+    "team": "NSH",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Oskar Back",
+    "team": "DAL",
+    "position": "C",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Uvis Balinskis",
+    "team": "FLA",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Lian Bichsel",
+    "team": "DAL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Colin Blackwell",
+    "team": "DAL",
+    "position": "C",
+    "games": "12",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Nick Blankenburg",
+    "team": "TOR",
+    "position": "D",
+    "games": "6",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Gavin Brindley",
+    "team": "COL",
+    "position": "C",
+    "games": "5",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jonny Brodzinski",
+    "team": "WSH",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Michael Bunting",
+    "team": "PHI",
+    "position": "LW",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Bowen Byram",
+    "team": "CHI",
+    "position": "D",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Brandon Carlo",
+    "team": "STL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Sam Carrick",
+    "team": "BUF",
+    "position": "C",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jonathan Castagna",
+    "team": "CGY",
+    "position": "C",
+    "games": "11",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Cody Ceci",
+    "team": "LAK",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Ben Chiarot",
+    "team": "DET",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Connor Clifton",
+    "team": "BOS",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Dylan Coghlan",
+    "team": "VEG",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Devin Cooley",
+    "team": "CGY",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Louis Crevier",
+    "team": "BUF",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Joey Daccord",
+    "team": "SEA",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Ty Dellandrea",
+    "team": "SJS",
+    "position": "C",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Justin Dowling",
+    "team": "NYR",
+    "position": "C",
+    "games": "4",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Dillon Dubé",
+    "team": "STL",
+    "position": "C",
+    "games": "3",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Oliver Ekman-Larsson",
+    "team": "TOR",
+    "position": "D",
+    "games": "16",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Ty Emberson",
+    "team": "EDM",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Adam Engstrom",
+    "team": "MTL",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Radek Faksa",
+    "team": "DAL",
+    "position": "C",
+    "games": "10",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Mario Ferraro",
+    "team": "WPG",
+    "position": "D",
+    "games": "15",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Cale Fleury",
+    "team": "SEA",
+    "position": "D",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Haydn Fleury",
+    "team": "WPG",
+    "position": "D",
+    "games": "10",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Nick Foligno",
+    "team": "MIN",
+    "position": "LW",
+    "games": "3",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Trent Frederic",
+    "team": "EDM",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Barclay Goodrow",
+    "team": "SJS",
+    "position": "RW",
+    "games": "15",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jordan Greenway",
+    "team": "CHI",
+    "position": "LW",
+    "games": "14",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Erik Gudbranson",
+    "team": "CBJ",
+    "position": "D",
+    "games": "12",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Nicolas Hague",
+    "team": "NSH",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Ville Heinola",
+    "team": "VEG",
+    "position": "D",
+    "games": "2",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Samuel Helenius",
+    "team": "LAK",
+    "position": "C",
+    "games": "11",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Joel Hofer",
+    "team": "STL",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Alexander Holtz",
+    "team": "VEG",
+    "position": "RW",
+    "games": "2",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Daemon Hunt",
+    "team": "2TM",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Daemon Hunt",
+    "team": "MIN",
+    "position": "D",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Daemon Hunt",
+    "team": "NSH",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Zach Hyman",
+    "team": "EDM",
+    "position": "LW",
+    "games": "6",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "David Jiříček",
+    "team": "PHI",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Albert Johansson",
+    "team": "DET",
+    "position": "D",
+    "games": "11",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jonas Johansson",
+    "team": "OTT",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Ross Johnston",
+    "team": "STL",
+    "position": "LW",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Noah Juulsen",
+    "team": "COL",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Oliver Kapanen",
+    "team": "MTL",
+    "position": "C",
+    "games": "7",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Matthew Kessel",
+    "team": "NYI",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Matt Kiersted",
+    "team": "MIN",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Cole Koepke",
+    "team": "WPG",
+    "position": "LW",
+    "games": "11",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Keegan Kolesar",
+    "team": "DET",
+    "position": "RW",
+    "games": "14",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Kevin Korchinski",
+    "team": "CHI",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Johnathan Kovacevic",
+    "team": "NJD",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Tyson Kozak",
+    "team": "BUF",
+    "position": "C",
+    "games": "6",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Darcy Kuemper",
+    "team": "LAK",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Andrei Kuzmenko",
+    "team": "PIT",
+    "position": "F",
+    "games": "10",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Zachary L'Heureux",
+    "team": "COL",
+    "position": "LW",
+    "games": "3",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Brad Lambert",
+    "team": "WPG",
+    "position": "C",
+    "games": "11",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Vinni Lettieri",
+    "team": "TOR",
+    "position": "C",
+    "games": "7",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Timothy Liljegren",
+    "team": "WSH",
+    "position": "D",
+    "games": "13",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Theo Lindstein",
+    "team": "STL",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Rieger Lorenz",
+    "team": "MIN",
+    "position": "LW",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Brad Marchand",
+    "team": "FLA",
+    "position": "LW",
+    "games": "2",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Ivan Miroshnichenko",
+    "team": "WSH",
+    "position": "LW",
+    "games": "3",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Travis Mitchell",
+    "team": "ANA",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Scott Morrow",
+    "team": "NYR",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Shakir Mukhamadullin",
+    "team": "EDM",
+    "position": "D",
+    "games": "10",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Connor Murphy",
+    "team": "EDM",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Tyler Myers",
+    "team": "DAL",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Vladislav Namestnikov",
+    "team": "WPG",
+    "position": "C",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Zack Ostapchuk",
+    "team": "SJS",
+    "position": "C",
+    "games": "14",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Ville Ottavainen",
+    "team": "SEA",
+    "position": "D",
+    "games": "8",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Vitali Pinchuk",
+    "team": "NSH",
+    "position": "F",
+    "games": "5",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Ryan Pulock",
+    "team": "NYI",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Taylor Raddysh",
+    "team": "NYR",
+    "position": "RW",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Aatu Räty",
+    "team": "VAN",
+    "position": "C",
+    "games": "4",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Marshall Rifai",
+    "team": "TOR",
+    "position": "D",
+    "games": "2",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Rasmus Ristolainen",
+    "team": "PHI",
+    "position": "D",
+    "games": "4",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Matt Roy",
+    "team": "WSH",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Scott Sabourin",
+    "team": "TBL",
+    "position": "F",
+    "games": "3",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Josh Samanski",
+    "team": "EDM",
+    "position": "F",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Axel Sandin Pellikka",
+    "team": "DET",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Reid Schaefer",
+    "team": "NSH",
+    "position": "LW",
+    "games": "7",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Elmer Söderblom",
+    "team": "PIT",
+    "position": "RW",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Carson Soucy",
+    "team": "CBJ",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "David Spacek",
+    "team": "MIN",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Otto Stenberg",
+    "team": "STL",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Chris Tanev",
+    "team": "TOR",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Logan Thompson",
+    "team": "WSH",
+    "position": "G",
+    "games": "9",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Alexey Toropchenko",
+    "team": "STL",
+    "position": "RW",
+    "games": "4",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Maxim Tsyplakov",
+    "team": "CGY",
+    "position": "F",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Alex Turcotte",
+    "team": "LAK",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Karel Vejmelka",
+    "team": "UTA",
+    "position": "G",
+    "games": "12",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Daniel Vladař",
+    "team": "PHI",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jake Walman",
+    "team": "EDM",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Taylor Ward",
+    "team": "LAK",
+    "position": "F",
+    "games": "4",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Zach Whitecloud",
+    "team": "CGY",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jared Wright",
+    "team": "LAK",
+    "position": "RW",
+    "games": "4",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Arber Xhekaj",
+    "team": "MTL",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Cameron York",
+    "team": "PHI",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Connor Zary",
+    "team": "CGY",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Mats Zuccarello",
+    "team": "LAK",
+    "position": "LW",
+    "games": "6",
+    "goals": "0",
+    "assists": "1",
+    "points": "1"
+  },
+  {
+    "name": "Jason Zucker",
+    "team": "BUF",
+    "position": "LW",
+    "games": "5",
+    "goals": "1",
+    "assists": "0",
+    "points": "1"
+  },
+  {
+    "name": "Jake Allen",
+    "team": "NJD",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Justus Annunen",
+    "team": "NSH",
+    "position": "G",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Mason Appleton",
+    "team": "DET",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Yaroslav Askarov",
+    "team": "SJS",
+    "position": "G",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jonathan Aspirot",
+    "team": "BOS",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Aleksander Barkov",
+    "team": "FLA",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Tyrel Bauer",
+    "team": "WPG",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Cole Beaudoin",
+    "team": "NYR",
+    "position": "C",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Simon Benoit",
+    "team": "PHI",
+    "position": "D",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jordan Binnington",
+    "team": "STL",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Viggo Bjorck",
+    "team": "WPG",
+    "position": "C",
+    "games": "15",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Cooper Black",
+    "team": "FLA",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Mackenzie Blackwood",
+    "team": "COL",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Sergei Bobrovsky",
+    "team": "TOR",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Zach Bogosian",
+    "team": "MIN",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Xavier Bourgault",
+    "team": "OTT",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Skyler Brind'Amour",
+    "team": "CAR",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Guillaume Brisebois",
+    "team": "VAN",
+    "position": "D",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Laurent Brossoit",
+    "team": "ANA",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Alex Bump",
+    "team": "PHI",
+    "position": "LW",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "André Burakovsky",
+    "team": "OTT",
+    "position": "LW",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Brandon Bussi",
+    "team": "CAR",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Filip Bystedt",
+    "team": "SJS",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Kyle Capobianco",
+    "team": "DAL",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Mitchell Chaffee",
+    "team": "NYI",
+    "position": "F",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jaroslav Chmelar",
+    "team": "NYR",
+    "position": "RW",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Martin Chromiak",
+    "team": "LAK",
+    "position": "RW",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ian Cole",
+    "team": "CHI",
+    "position": "D",
+    "games": "14",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Sebastian Cossa",
+    "team": "UTA",
+    "position": "G",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Cameron Crotty",
+    "team": "OTT",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Justin Danforth",
+    "team": "BUF",
+    "position": "RW",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nico Daws",
+    "team": "2TM",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nico Daws",
+    "team": "NJD",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nico Daws",
+    "team": "WPG",
+    "position": "G",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Zach Dean",
+    "team": "STL",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Luca Del Bel Belluz",
+    "team": "CBJ",
+    "position": "C",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ethan Del Mastro",
+    "team": "CHI",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nick DeSimone",
+    "team": "UTA",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Casey DeSmith",
+    "team": "DAL",
+    "position": "G",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Brenden Dillon",
+    "team": "NJD",
+    "position": "D",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Michael DiPietro",
+    "team": "BOS",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jakub Dobes",
+    "team": "MTL",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jorian Donovan",
+    "team": "OTT",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Lukáš Dostál",
+    "team": "ANA",
+    "position": "G",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Curtis Douglas",
+    "team": "SEA",
+    "position": "C",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Sheldon Dries",
+    "team": "DET",
+    "position": "C",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Artem Duda",
+    "team": "UTA",
+    "position": "D",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Colten Ellis",
+    "team": "BUF",
+    "position": "G",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Andreas Englund",
+    "team": "DET",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Samuel Ersson",
+    "team": "OTT",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dante Fabbro",
+    "team": "CBJ",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Marcus Foligno",
+    "team": "MIN",
+    "position": "LW",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Anton Forsberg",
+    "team": "LAK",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jacob Fowler",
+    "team": "MTL",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ethen Frank",
+    "team": "WSH",
+    "position": "F",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dylan Garand",
+    "team": "NYR",
+    "position": "G",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Conor Garland",
+    "team": "CBJ",
+    "position": "RW",
+    "games": "12",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jacob Gaucher",
+    "team": "PHI",
+    "position": "F",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Adam Gaudette",
+    "team": "SJS",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "John Gibson",
+    "team": "DET",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Luke Glendening",
+    "team": "NYR",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Helge Grans",
+    "team": "PHI",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jet Greaves",
+    "team": "CBJ",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Benoit-Olivier Groulx",
+    "team": "TOR",
+    "position": "C",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Philipp Grubauer",
+    "team": "SEA",
+    "position": "G",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Carl Grundström",
+    "team": "PHI",
+    "position": "RW",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Matt Grzelcyk",
+    "team": "BUF",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Radko Gudas",
+    "team": "FLA",
+    "position": "D",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Joel Hanley",
+    "team": "CGY",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jansen Harkins",
+    "team": "TBL",
+    "position": "C",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Carter Hart",
+    "team": "VEG",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Garnet Hathaway",
+    "team": "FLA",
+    "position": "RW",
+    "games": "14",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Avery Hayes",
+    "team": "PIT",
+    "position": "F",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Danton Heinen",
+    "team": "CBJ",
+    "position": "C",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Connor Hellebuyck",
+    "team": "NJD",
+    "position": "G",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Drew Helleson",
+    "team": "ANA",
+    "position": "D",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dennis Hildeby",
+    "team": "TBL",
+    "position": "G",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Adin Hill",
+    "team": "VEG",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Tyson Hinds",
+    "team": "ANA",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Hayden Hodgson",
+    "team": "OTT",
+    "position": "RW",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Samuel Honzek",
+    "team": "CGY",
+    "position": "LW",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dylan Hryckowian",
+    "team": "DAL",
+    "position": "F",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ville Husso",
+    "team": "ANA",
+    "position": "G",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Bokondji Imama",
+    "team": "FLA",
+    "position": "LW",
+    "games": "14",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Tristan Jarry",
+    "team": "EDM",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ben Jones",
+    "team": "CGY",
+    "position": "F",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Max Jones",
+    "team": "EDM",
+    "position": "LW",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dakota Joshua",
+    "team": "TOR",
+    "position": "C",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Marco Kasper",
+    "team": "DET",
+    "position": "C",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nikita Klepov",
+    "team": "ANA",
+    "position": "RW",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Spencer Knight",
+    "team": "CHI",
+    "position": "G",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Pyotr Kochetkov",
+    "team": "CAR",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Sean Kuraly",
+    "team": "BOS",
+    "position": "C",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Sam Lafferty",
+    "team": "FLA",
+    "position": "C",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Kevin Lankinen",
+    "team": "VAN",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jeremy Lauzon",
+    "team": "VEG",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Charles-Alexis Legault",
+    "team": "CAR",
+    "position": "D",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Devon Levi",
+    "team": "EDM",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Esa Lindell",
+    "team": "DAL",
+    "position": "D",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Charlie Lindgren",
+    "team": "WSH",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ryan Lindgren",
+    "team": "SEA",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ryan Lomberg",
+    "team": "CBJ",
+    "position": "LW",
+    "games": "12",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ukko-Pekka Luukkonen",
+    "team": "BUF",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ilya Lyubushkin",
+    "team": "NSH",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Kyle MacLean",
+    "team": "NYI",
+    "position": "F",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Taylor Makar",
+    "team": "COL",
+    "position": "LW",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Victor Mancini",
+    "team": "VAN",
+    "position": "D",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jacob Markström",
+    "team": "FLA",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Spencer Martin",
+    "team": "NYR",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Emil Martinsen Lilleberg",
+    "team": "TBL",
+    "position": "D",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Scott Mayfield",
+    "team": "NYI",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Hunter Mcdonald",
+    "team": "PHI",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Rutger McGroarty",
+    "team": "PIT",
+    "position": "RW",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dylan McIlrath",
+    "team": "WSH",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jacob Melanson",
+    "team": "SEA",
+    "position": "RW",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Leevi Merilainen",
+    "team": "VAN",
+    "position": "G",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dakota Mermis",
+    "team": "TOR",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "J.J. Moser",
+    "team": "TBL",
+    "position": "D",
+    "games": "13",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Sergei Murashov",
+    "team": "PIT",
+    "position": "G",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Matt Murray",
+    "team": "NSH",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Alex Nedeljkovic",
+    "team": "SJS",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Nino Niederreiter",
+    "team": "WPG",
+    "position": "RW",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jani Nyman",
+    "team": "SEA",
+    "position": "RW",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Liam O'Brien",
+    "team": "UTA",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Logan O'Connor",
+    "team": "COL",
+    "position": "RW",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jake Oettinger",
+    "team": "DAL",
+    "position": "G",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Brennan Othmann",
+    "team": "CGY",
+    "position": "LW",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "David Perron",
+    "team": "DAL",
+    "position": "LW",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dylan Peterson",
+    "team": "STL",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Calvin Pickard",
+    "team": "MIN",
+    "position": "G",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Tyler Pitlick",
+    "team": "MIN",
+    "position": "C",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Michal Postava",
+    "team": "DET",
+    "position": "G",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ivan Provorov",
+    "team": "CBJ",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jacob Quillan",
+    "team": "VAN",
+    "position": "F",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "James Reimer",
+    "team": "NYR",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "David Reinbacher",
+    "team": "MTL",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Cole Reinhardt",
+    "team": "FLA",
+    "position": "LW",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Matt Rempe",
+    "team": "NYR",
+    "position": "C",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Alexander Romanov",
+    "team": "NYI",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jonas Røndbjerg",
+    "team": "VEG",
+    "position": "RW",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Elias Salomonsson",
+    "team": "WPG",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Juuse Saros",
+    "team": "NSH",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Akira Schmid",
+    "team": "FLA",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Cole Schwindt",
+    "team": "FLA",
+    "position": "RW",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Matthew Seminoff",
+    "team": "DAL",
+    "position": "RW",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Arsenii Sergeev",
+    "team": "CGY",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Arturs Silovs",
+    "team": "PIT",
+    "position": "G",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Stuart Skinner",
+    "team": "WPG",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Alberts Smits",
+    "team": "NYR",
+    "position": "D",
+    "games": "15",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Arvid Söderblom",
+    "team": "CHI",
+    "position": "G",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ilya Solovyov",
+    "team": "PIT",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ilya Sorokin",
+    "team": "NYI",
+    "position": "G",
+    "games": "10",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jordan Staal",
+    "team": "CAR",
+    "position": "C",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Hoyt Stanley",
+    "team": "OTT",
+    "position": "D",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Clay Stevenson",
+    "team": "WPG",
+    "position": "G",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jack Studnicka",
+    "team": "PHI",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jeremy Swayman",
+    "team": "BOS",
+    "position": "G",
+    "games": "11",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Cam Talbot",
+    "team": "CBJ",
+    "position": "G",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Daniil Tarasov",
+    "team": "DET",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Trey Taylor",
+    "team": "DAL",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Matt Tomkins",
+    "team": "EDM",
+    "position": "G",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dominic Toninato",
+    "team": "CHI",
+    "position": "C",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "William Trudeau",
+    "team": "NSH",
+    "position": "D",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Ryan Ufko",
+    "team": "NSH",
+    "position": "D",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Linus Ullmark",
+    "team": "OTT",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Felix Unger Sorum",
+    "team": "CAR",
+    "position": "RW",
+    "games": "3",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Trevor van Riemsdyk",
+    "team": "PIT",
+    "position": "D",
+    "games": "5",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Semyon Varlamov",
+    "team": "NYI",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Andrei Vasilevskiy",
+    "team": "TBL",
+    "position": "G",
+    "games": "9",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Joe Veleno",
+    "team": "NYR",
+    "position": "C",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Jesper Wallstedt",
+    "team": "MIN",
+    "position": "G",
+    "games": "14",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Scott Wedgewood",
+    "team": "COL",
+    "position": "G",
+    "games": "4",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Garrett Wilson",
+    "team": "PHI",
+    "position": "LW",
+    "games": "2",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Dustin Wolf",
+    "team": "CGY",
+    "position": "G",
+    "games": "7",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Joseph Woll",
+    "team": "PHI",
+    "position": "G",
+    "games": "8",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Parker Wotherspoon",
+    "team": "VEG",
+    "position": "D",
+    "games": "6",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "Brayden Yager",
+    "team": "WPG",
+    "position": "C",
+    "games": "1",
+    "goals": "0",
+    "assists": "0",
+    "points": "0"
+  },
+  {
+    "name": "League Average",
+    "team": "",
+    "position": "",
+    "games": "",
+    "goals": "",
+    "assists": "",
+    "points": ""
+  }
+]
