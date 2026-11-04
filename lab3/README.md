@@ -5,8 +5,8 @@
 * *Date Created*: 19 OCT 2026
 * *Last Modification Date*: 03 NOV 2026
 * *Lab Gitlab URL*: https://git.cs.dal.ca/connorl/csci3172
-* *Netlify URL*:
-* *Render URL*:
+* *Netlify URL*: https://puckstats-lab3.netlify.app/
+* *Render URL*: https://csci3172-lab3-dovf.onrender.com/
 
 
 ## Author
@@ -95,3 +95,8 @@ https://getbootstrap.com/docs/5.3/layout/grid/
 
 SymbolSpy. Arrow Symbols.
 https://www.symbolspy.com/arrow-symbol.html
+
+## Acknowledgments
+* I used ARC to test the REST API end points (GET, POST, DELETE) 
+* Vite template was used to start off the front end
+* This is an extension of Lab 2 (PuckFinder)

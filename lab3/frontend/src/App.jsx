@@ -129,9 +129,9 @@ function App() {
           </table>
 
           {sortedPlayers.length === 0 && (
-              <p className="text-muted text-center py-4">
-                  No players found.
-              </p>
+            <p className="text-muted text-center py-4">
+                No players found.
+            </p>
           )}
         </div>
       </section>
